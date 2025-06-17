@@ -25,7 +25,7 @@ export default function Logo({ size = "medium" }: LogoProps) {
       <span
         className={`font-bold ${size === "small" ? "text-base" : size === "medium" ? "text-xl" : "text-2xl"} hidden sm:inline-block`}
       >
-        SwapnilCare
+        MediCare
       </span>
     </Link>
   )
