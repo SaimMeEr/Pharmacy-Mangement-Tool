@@ -1,9 +1,9 @@
-# SwapnilCare - Online Pharmacy Platform
+# PharmaHub - Online Pharmacy Platform
 
-SwapnilCare is a modern, interactive online pharmacy platform built with Next.js, Tailwind CSS, and Firebase. The application provides a seamless shopping experience for healthcare products with features like product search, filtering, cart management, and checkout.
+PharmaHub is a modern, interactive online pharmacy platform built with Next.js, Tailwind CSS, and Firebase. The application provides a seamless shopping experience for healthcare products with features like product search, filtering, cart management, and checkout.
 
 ## Deployed Application
-- **Frontend**: [SwapnilCare UI](https://v0-swapnilcare-ui-design.vercel.app)
+- **Frontend**: (https://medicare-online.vercel.app/)
 
 ## Features Implemented
 
